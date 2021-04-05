@@ -1,6 +1,7 @@
 # Machine-Learning-Classification
 Klassifikasi machine learning untuk Land Use menggunakan data Landsat
 
+```javascript
 // 07 IMAGE CLASSIFICATION - MACHINE LEARNING
 
 // SUPERVISED CLASSIFICATION - Geometry Imports
